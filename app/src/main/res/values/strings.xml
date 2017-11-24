@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LectorInvidente</string>
+    <string name="explanation">Tap device with NFC tag</string>
+    <string name="ok_detected">Se detectó correctamente el tag</string>
+    <string name="Nombre">Esperando Consulta</string>
+    <string name="No_found">Consulta no econtro el ID</string>
+</resources>
